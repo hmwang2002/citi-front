@@ -6,7 +6,6 @@
 
 根据主要功能，从导航栏分别可跳转到主页、股权问答、股权查询和新闻资讯。在主要功能页下，会跳转到各自的分页面。比如在股权查询部分，可跳转到公司基本信息、财务信息、股东股本等信息页面。
 
-![img](https://y6gbjg9hbn.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjU4YTZiOTI4ZDUwNmQ1YTI5NDQyNGIxZGQyZGY4NzJfc0FiQkNXT3A2QzZUVHNSQ3JpRmZ3YnpSRXRzRGhyZ2dfVG9rZW46REF0ZWJQbWRjbzJRSDR4N1QzVWM3eHdmbmJlXzE3MTEyOTU1ODQ6MTcxMTI5OTE4NF9WNA)
 
 #### 用户界面设计
 
